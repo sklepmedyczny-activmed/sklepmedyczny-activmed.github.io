@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/23231-128x88.png",
-    "mbrsiteDomain": "9qqdwocwe9",
+    "mbrsiteDomain": "jezvg6mqmr",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -67,7 +67,8 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "<Garwolin> <garwolin sklep medyczny> <Garwolin sklep medyczny Activmed> <sklep medyczny> <activmed> <sklep medyczny activmed>"
   },
   "pages": {
     "index.html": {
